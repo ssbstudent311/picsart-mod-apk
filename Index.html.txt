@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fluxus Executor - Unrivaled Roblox Script Executor</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        header {
+            background: #4CAF50;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+
+        main {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1, h2, h3 {
+            color: #4CAF50;
+            margin: 10px 0;
+        }
+
+        p {
+            margin: 10px 0;
+        }
+
+        ul {
+            margin: 10px 0;
+            padding-left: 20px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background: #333;
+            color: white;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+
+        .download-button {
+            display: inline-block;
+            background: #4CAF50;
+            color: white;
+            padding: 10px 15px;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background 0.3s;
+        }
+
+        .download-button:hover {
+            background: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Fluxus Executor</h1>
+        <p>Unrivaled Roblox Script Executor for Android, Windows & Linux</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>What is Fluxus Executor?</h2>
+            <p>Fluxus Executor is a free Roblox script exploit that is free from viruses and malware. If you want to add an unlimited number of scripts to your Roblox game, you should definitely try it out today.</p>
+            <p>It is undoubtedly an outstanding Roblox script executor for both personal computers and mobile devices, helping you execute scripts effortlessly for an enhanced gaming experience.</p>
+        </section>
+
+        <section>
+            <h2>Compatibility</h2>
+            <p>Fluxus Executor works with all Roblox games. We have tested it thoroughly and found it to be a superior script executor compared to others available online.</p>
+            <ul>
+                <li>PC version: .exe file format</li>
+                <li>Mobile version: Fluxus Executor APK</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Regular Updates</h2>
+            <p>Unlike other executors, Fluxus receives regular updates, ensuring compatibility even after Roblox updates. It features a minimalistic user interface that is highly user-friendly.</p>
+        </section>
+
+        <section>
+            <h2>Is Fluxus Executor Safe?</h2>
+            <p>Yes, it is completely safe and free from viruses and malware, as confirmed by scanning both PC and mobile versions.</p>
+        </section>
+
+        <section>
+            <h2>Download Fluxus Executor</h2>
+            <p>Fluxus Executor V7 is the latest version available for download. You can download it for Windows, Linux, and Android operating systems.</p>
+            <a href="#" class="download-button">Download From Here</a>
+        </section>
+
+        <section>
+            <h2>Installation Instructions</h2>
+            <h3>For PC (Windows)</h3>
+            <ul>
+                <li>Download the Fluxus Exploit for PC.</li>
+                <li>Extract the zip file using WinRAR or 7-Zip.</li>
+                <li>Double-click the installation file and follow the on-screen instructions.</li>
+                <li>Launch the executor.</li>
+            </ul>
+
+            <h3>For Android</h3>
+            <ul>
+                <li>Download the Fluxus Executor APK.</li>
+                <li>Enable Unknown Sources in your device settings.</li>
+                <li>Tap the APK file and install it.</li>
+                <li>Launch the app and verify with the key.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Frequently Asked Questions</h2>
+            <ul>
+                <li><strong>Is Fluxus Free?</strong> Yes, it is free but requires a key for the free version.</li>
+                <li><strong>Is Fluxus for Mac Available?</strong> No, it is not currently available for MacOS.</li>
+                <li><strong>What is the Fluxus Official Website?</strong> The official website is <a href="https://fluxteam.net">fluxteam.net</a>.</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Fluxus Executor</p>
+    </footer>
+</body>
+</html>
